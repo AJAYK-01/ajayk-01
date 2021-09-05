@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Flutter apps
-- 🌱 I’m learning Rust
+- 🌱 I’m learning Swift
 - 👯 I’m looking to collaborate on Flutter, React, NodeJs, Firebase
 - 🤔 I’m looking for help with simple project ideas for learning Rust
 - 💬 Ask me about Frontend development, Linux and Telegram bots
