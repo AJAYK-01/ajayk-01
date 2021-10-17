@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with simple project ideas for learning Rust
 - 💬 Ask me about Frontend development, Linux and Telegram bots
 - 📫 How to reach me: [@nevagonnagiveuup](https://t.me/nevagonnagiveuup) on Telegram and [@ajayk_kv_](https://twitter.com/ajayk_kv_) on Twitter
+
+<img src="https://komarev.com/ghpvc/?username=AJAYK-01" height='0' width='0' />
