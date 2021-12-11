@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ReactJs
-<!-- - 🌱 I’m learning Swift -->
+- 🔭 I’m currently working with ML and React
+- 🌱 I’m learning ML and Blockchain
 - 👯 I’m looking to collaborate on Flutter, React, NodeJs, Firebase
 <!-- - 🤔 I’m looking for help with simple project ideas for learning Rust -->
 - 💬 Ask me about Frontend development, Linux and Telegram bots
