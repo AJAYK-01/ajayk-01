@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 <!--
 **AJAYK-01/ajayk-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@nevagonnagiveuup](https://t.me/nevagonnagiveuup) on Telegram, [@ajayk_kv_](https://twitter.com/ajayk_kv_) on Twitter and ajayk#7414 on Discord
 
 <img src="https://komarev.com/ghpvc/?username=AJAYK-01" height='0' width='0' />
+ -->
