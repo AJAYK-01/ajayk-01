@@ -22,6 +22,7 @@
 * [Cherava](https://github.com/Roshan-R/Cherava) - An open source, zero-code web scraping automation tool. Prize winner at Foss Hack 3.0
 * [KTU Notifier](https://github.com/AJAYK-01/KTU-Notifier) - An NLP based Telegram Bot that pushes KTU Announcements Notifications.
 * [SUSya](https://github.com/AJAYK-01/SUSya) - AI powered plant disease detection and assistance application.
+* [moniTOR](https://prezi.com/p/auxfffowx_s4/monitor-the-dark-web-crawler/) - A dark web crawler and search engine which collects and stores links from various corners of the dark web for easier access and monitoring
 
 #### Socials
 * [Linkedin](https://linkedin.com/in/ajaykkv)
