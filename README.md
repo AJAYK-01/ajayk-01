@@ -18,6 +18,11 @@
 * [SuperToken Deployer](https://devfolio.co/projects/supertoken-deployer-fa33) - A user friendly website which can be used to create custom super tokens and deploy them without having to write contracts.
 * [CampusVote](https://github.com/AJAYK-01/CampusVote) - Blockchain based Voting Platform for Transparent Campus Elections.
 
+#### Other Projects
+* [Cherava](https://github.com/Roshan-R/Cherava) - An open source, zero-code web scraping automation tool. Prize winner at Foss Hack 3.0
+* [KTU Notifier](https://github.com/AJAYK-01/KTU-Notifier) - An NLP based Telegram Bot that pushes KTU Announcements Notifications.
+* [SUSya](https://github.com/AJAYK-01/SUSya) - AI powered plant disease detection and assistance application.
+
 #### Socials
 * [Linkedin](https://linkedin.com/in/ajaykkv)
 * [Twitter](https://twitter.com/ajayk_kv_)
