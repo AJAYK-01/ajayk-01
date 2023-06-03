@@ -16,7 +16,7 @@
 
 * [Project Mudrika](https://github.com/Project-Mudrika) - Web3 based disaster management platform proposal for the NDMA, SDMA and DDMA of India.
 * [SuperToken Deployer](https://devfolio.co/projects/supertoken-deployer-fa33) - A user friendly website which can be used to create custom super tokens and deploy them without having to write contracts.
-* [Project Mudrika](https://github.com/AJAYK-01/CampusVote) - Blockchain based Voting Platform for Transparent Campus Elections.
+* [CampusVote](https://github.com/AJAYK-01/CampusVote) - Blockchain based Voting Platform for Transparent Campus Elections.
 
 #### Socials
 * [Linkedin](https://linkedin.com/in/ajaykkv)
