@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ajay Krishna K V
 
-- 🌱 I’m currently learning **DevOps** and **AWS**.
+- 🌱 I’m currently learning **DevOps** and **Go**.
 - 💻 I work on **web3**, **flutter**, **react**, **python** and **nodejs** projects.
 - 💙 Blockchain enthusiast.
 
