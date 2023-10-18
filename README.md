@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Ajay Krishna K V
 
 - 🌱 I’m currently learning **DevOps** and **Go**.
-- 💻 I work on **web3**, **flutter**, **react**, **python** and **nodejs** projects.
+- 💻 I work on **flutter**, **react**, **python** and **nodejs** projects.
 - 💙 Blockchain enthusiast.
 
+<!-- 
 #### Skills
 
 * Flutter
@@ -24,6 +25,7 @@
 * [SUSya](https://github.com/AJAYK-01/SUSya) - AI powered plant disease detection and assistance application. Prize winner at Impulse IEEE Hackathon.
 * [moniTOR](https://prezi.com/p/auxfffowx_s4/monitor-the-dark-web-crawler/) - A dark web crawler and search engine which collects and stores links from various corners of the dark web for easier access and monitoring
 
+-->
 #### Socials
 * [Linkedin](https://linkedin.com/in/ajaykkv)
 * [Twitter](https://twitter.com/ajayk_kv_)
