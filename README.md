@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **DevOps** and **Go**.
 - 💻 I work on **flutter**, **react**, **python** and **nodejs** projects.
-- 💙 Blockchain enthusiast.
+- 🔗 I also tinker around Blockchain.
 
 <!-- 
 #### Skills
