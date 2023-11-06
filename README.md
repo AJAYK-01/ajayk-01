@@ -13,6 +13,7 @@
 * HTML / CSS / JS
 * Python Backend
 
+-->
 #### Web3 Projects
 
 * [Project Mudrika](https://github.com/Project-Mudrika) - Web3 based disaster management platform proposal for the NDMA, SDMA and DDMA of India.
@@ -25,7 +26,6 @@
 * [SUSya](https://github.com/AJAYK-01/SUSya) - AI powered plant disease detection and assistance application. Prize winner at Impulse IEEE Hackathon.
 * [moniTOR](https://prezi.com/p/auxfffowx_s4/monitor-the-dark-web-crawler/) - A dark web crawler and search engine which collects and stores links from various corners of the dark web for easier access and monitoring
 
--->
 #### Socials
 * [Linkedin](https://linkedin.com/in/ajaykkv)
 * [Twitter](https://twitter.com/ajayk_kv_)
